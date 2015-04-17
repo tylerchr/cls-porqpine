@@ -1,6 +1,6 @@
 {
   "name": "cls-porqpine",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Make porqpine play nice with the continuation-local-storage module.",
   "main": "shim.js",
   "repository": {
